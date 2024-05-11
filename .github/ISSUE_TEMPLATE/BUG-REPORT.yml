@@ -10,7 +10,7 @@ body:
     options:
     - label: I found no existing issues matching my bug
       required: true
-    - label: My issue is not caused by a theme
+    - label: My issue is not caused by a Millennium bug. (for example a button misplacement, not Steam crashing)
       required: true
 - type: textarea
   attributes:
