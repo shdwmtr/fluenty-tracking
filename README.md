@@ -1,2 +1,5 @@
-# Fluenty-Tracking
-Issue tracking and feature requests for Fluenty
+## Fluenty Issue Tracking
+
+The official issue tracking repository for Fluenty for Steam
+
+https://www.patreon.com/FluentyforSteam
